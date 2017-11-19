@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/backButton.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/background.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/base.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/EndScreen.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/hasJumped.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/highscores.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/instruct.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/jumper.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/menuHover.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/platform1.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/platform2.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/platform3.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/restartButton.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/scoresHover.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/startHover.png</File>
+    <File>C:/Users/Teodora/Desktop/JumpyGame/JumpyGame/Content/JumpyGameContent/StartScreen.png</File>
+  </SourceFiles>
+</SourceFileCollection>
